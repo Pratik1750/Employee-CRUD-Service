@@ -10,16 +10,14 @@ public class EmployeeServiceImpl implements EmployeeService {
     EmployeeRepository employeeRepository;
 
     @Override public String addEmployee(EmployeeInput employeeInput) {
-        return null;
 
     }
 
     @Override public Employee getEmployeeById(String id) {
-        return null;
+
     }
 
     @Override public Employee updateEmployee(String id, EmployeeInput employeeInput) {
-        return null;
 
     }
 
